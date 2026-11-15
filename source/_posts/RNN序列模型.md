@@ -15,7 +15,7 @@ categories: it学习
 
 
 <video width="80%" controls autoplay loop muted>
-  <source src="../video/测试2.mp4" type="video/mp4">
+  <source src="/video/测试2.mp4" type="video/mp4">
 </video>
 
 
