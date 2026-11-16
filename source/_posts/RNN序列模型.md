@@ -14,14 +14,13 @@ categories: it学习
 生成下一token时，结合当前词和前面的上下文信息
 
 <video width="80%" controls autoplay loop muted>
-  <source src="/video/测试2.mp4" type="video/mp4">
+  <source src="/video/test02.mp4" type="video/mp4">
 </video>
 
 <video width="80%" controls autoplay loop muted>
-  <source src="../video/测试2.mp4" type="video/mp4">
+  <source src="/video/test02.mp4" type="video/mp4">
 </video>
 
-![隐藏状态公式](/video/测试2.mp4)
 
 ## 实现原理分析
 
