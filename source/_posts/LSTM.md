@@ -40,7 +40,7 @@ t1，t2，t3
 ### 最终输出
 
 那么最终输出是什么,其实LSTM在最终输出的原理上和RNN是非常相似的
-![隐藏状态公式](/img/LSTM输出原理.jpg)
+![隐藏状态公式](/img/LSTM/LSTM输出原理.jpg)
 
 也就是Yt = linear(Ht)
 那么一层一层往前拨
@@ -48,19 +48,19 @@ t1，t2，t3
 我们现在只需要考虑Ht了
 
 
-![Ht的计算公式](/img/Ht的计算公式.jpg)
+![Ht的计算公式](/img/LSTM/Ht的计算公式.jpg)
 
 Ht = t2* tanh(Ct)
 t2就是输出门最后得到的系数，
 那么 我们现在就只需要考虑Ct了
 
-![Ct计算公式](/img/Ct计算公式.jpg)
+![Ct计算公式](/img/LSTM/Ct计算公式.jpg)
 
 而Ct = t1 * Ct-1 + t3 * Ht(一撇  好吧 这个我不会打)
 Ht = tanh（Ht-1 *  W + Xt-1 * W ）
 
 说白了，我现在也不能体会到他为什么这么构造，但是宏观上，还是可以理解到Ct的迭代是非常简单的，所以LSTM在同样的上下文向量可以一定程度缓解梯度消失和梯度爆炸的问题
-![LSTM大观总览](/img/LSTM大观总览.jpg)
+![LSTM大观总览](/img/LSTM/LSTM大观总览.jpg)
 
 总结下：LSTM 到底干了什么
 
@@ -70,6 +70,6 @@ Ht = tanh（Ht-1 *  W + Xt-1 * W ）
 哦 差点忘了  就像RNN一样  学完了，所以，我们可以把这整个非常复杂的结构，作为一个小组件了
 那么多层，双向，双向+多层来喽
 
-![多层LSTM](/img/多层LSTM.jpg)![双向LSTM](/img/双向LSTM.jpg)![多层+双向LSTM](/img/多层+双向LSTM.jpg)
+![多层LSTM](/img/LSTM/多层LSTM.jpg)![双向LSTM](/img/LSTM/双向LSTM.jpg)![多层+双向LSTM](/img/LSTM/多层+双向LSTM.jpg)
 
 以上，LSTM就真正结束了

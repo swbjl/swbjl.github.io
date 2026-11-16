@@ -49,7 +49,8 @@
               "title": "插入模板"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/LSTM.md",
+                "file": "source/_posts/RNN序列模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,32 +217,34 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2c1cb65544d792fe",
+  "active": "e1a67adb7f5230d7",
   "lastOpenFiles": [
-    "source/img/多层LSTM.jpg",
     "source/_posts/LSTM.md",
-    "source/_posts/RNN序列模型.md",
+    "source/video/RNN/单层双向.mp4",
+    "source/video/RNN/单层实现.mp4",
+    "source/video/RNN/RNN最小单元基本原理.mp4",
+    "source/video/RNN/多层双向.mp4",
+    "source/video/RNN/多层实现.mp4",
+    "source/video/LSTM",
+    "source/video/新建文件夹",
+    "source/video/RNN",
+    "source/img/LSTM/多层+双向LSTM.jpg",
+    "source/img/LSTM/双向LSTM.jpg",
+    "source/img/LSTM/多层LSTM.jpg",
+    "source/img/LSTM/LSTM大观总览.jpg",
+    "source/img/RNN/多层双向.jpg",
+    "source/img/RNN/从隐藏状态到最终输出.png",
+    "source/img/LSTM/Ct计算公式.jpg",
+    "source/img/LSTM/Ht的计算公式.jpg",
+    "source/img/RNN/隐藏状态公式.jpg",
+    "source/img/LSTM/LSTM输出原理.jpg",
+    "source/img/LSTM",
+    "source/img/新建文件夹",
     "插入模板.md",
-    "source/img/多层+双向LSTM.jpg",
-    "source/img/双向LSTM.jpg",
-    "source/img/LSTM大观总览.jpg",
-    "source/img/Ct计算公式.jpg",
-    "source/img/Ht的计算公式.jpg",
-    "source/img/输出结果.jpg",
-    "source/img/隐藏状态公式.jpg",
-    "source/img/LSTM输出原理.jpg",
+    "source/_posts/RNN序列模型.md",
     "未命名.md",
-    "source/video/多层双向.mp4",
-    "source/video/20261116_141116.mp4",
-    "source/img/多层双向.jpg",
-    "source/video/20261116_140910.mp4",
-    "source/video/20261116_140845.mp4",
-    "source/video/单层双向.mp4",
     "Hexo图片懒人流方案.md",
     "source/插入模板.md",
-    "source/video/多层实现.mp4",
-    "source/video/单层实现.mp4",
-    "source/video/RNN最小单元基本原理.mp4",
     "source/_posts/我的新文章.md",
     "source/_posts/整个项目带做提示词.md",
     "source/_posts/基础类功能.md",

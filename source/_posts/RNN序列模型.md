@@ -20,14 +20,14 @@ aliases:
 ## 实现原理分析
 
 以x1-x4为例，
-![隐藏状态公式](/img/隐藏状态公式.jpg)
+![隐藏状态公式](/img/RNN/隐藏状态公式.jpg)
 h1,由x1，三维转向四维得到,Xout1由h1得到
 h2,由x2+h1，七维转向四维得到,Xout2由h2得到
 
 之后同理
 ### RNN的最小单元基本原理
 <video width="80%" controls autoplay loop muted>
-  <source src="/video/RNN最小单元基本原理.mp4" type="video/mp4">
+  <source src="/video/RNN/RNN最小单元基本原理.mp4" type="video/mp4">
 </video>
 
 这样我们就到了
@@ -35,7 +35,7 @@ h2,由x2+h1，七维转向四维得到,Xout2由h2得到
 ### RNN单层表现
 接下来看一下他在一层里面的表现
 <video width="80%" controls autoplay loop muted>
-  <source src="/video/单层实现.mp4" type="video/mp4">
+  <source src="/video/RNN/单层实现.mp4" type="video/mp4">
 </video>
 
 
@@ -48,12 +48,12 @@ ok 我们目前得到了一层的RNN是如何实现的
 如此，我们可以实现一个多层的RNN
 
 <video width="80%" controls autoplay loop muted>
-  <source src="/video/多层实现.mp4" type="video/mp4">
+  <source src="/video/RNN/多层实现.mp4" type="video/mp4">
 </video>
 
 在最后 我们得到了学习到 低层和高层  所有信息的隐藏信息，之后只要再经历一层linear层  那么就可以得到输出
 就像这样：
-![从隐藏状态到最终输出](/img/从隐藏状态到最终输出.png)
+![从隐藏状态到最终输出](/img/RNN/从隐藏状态到最终输出.png)
 
 ## 简单总结
 ok，是不是觉得学完了，算...是吧
@@ -68,7 +68,7 @@ so，双向来喽
 ### 单层双向
 
 <video width="80%" controls autoplay loop muted>
-  <source src="/video/单层双向.mp4" type="video/mp4">
+  <source src="/video/RNN/单层双向.mp4" type="video/mp4">
 </video>
 
 由此，就可以，得到正向和反向的所有信息
@@ -80,7 +80,7 @@ ok，那么如同搭积木一般，之前我们实现了多层的单向，从而
 下面是我手写的示例，当时懵逼了一下，见谅见谅
 
 <video width="80%" controls autoplay loop muted>
-  <source src="/video/多层双向.mp4" type="video/mp4">
+  <source src="/video/RNN/多层双向.mp4" type="video/mp4">
 </video>
 
 如此我们就实现了多层双向的RNN
