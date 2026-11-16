@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c1cb65544d792fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/LSTM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LSTM"
-            }
-          },
-          {
-            "id": "e1a67adb7f5230d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/RNN序列模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RNN序列模型"
-            }
-          },
-          {
             "id": "90efabb597333fe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "插入模板.md",
+                "file": "source/_posts/GRU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "插入模板"
+              "title": "GRU"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/RNN序列模型.md",
+                "file": "source/_posts/GRU.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,16 +188,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e1a67adb7f5230d7",
+  "active": "90efabb597333fe3",
   "lastOpenFiles": [
     "source/_posts/LSTM.md",
+    "source/_posts/GRU.md",
+    "插入模板.md",
+    "source/_posts/RNN序列模型 - 副本.md",
+    "source/img/GRU",
+    "source/video/GRU",
+    "source/video/新建文件夹",
+    "未命名.md",
+    "未命名 1.md",
+    "source/_posts/RNN序列模型.md",
     "source/video/RNN/单层双向.mp4",
     "source/video/RNN/单层实现.mp4",
     "source/video/RNN/RNN最小单元基本原理.mp4",
     "source/video/RNN/多层双向.mp4",
     "source/video/RNN/多层实现.mp4",
     "source/video/LSTM",
-    "source/video/新建文件夹",
     "source/video/RNN",
     "source/img/LSTM/多层+双向LSTM.jpg",
     "source/img/LSTM/双向LSTM.jpg",
@@ -238,11 +217,6 @@
     "source/img/LSTM/Ht的计算公式.jpg",
     "source/img/RNN/隐藏状态公式.jpg",
     "source/img/LSTM/LSTM输出原理.jpg",
-    "source/img/LSTM",
-    "source/img/新建文件夹",
-    "插入模板.md",
-    "source/_posts/RNN序列模型.md",
-    "未命名.md",
     "Hexo图片懒人流方案.md",
     "source/插入模板.md",
     "source/_posts/我的新文章.md",
