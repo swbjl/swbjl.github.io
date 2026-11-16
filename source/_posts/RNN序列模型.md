@@ -7,16 +7,23 @@ tags:
 categories: it学习
 ---
 
-## 目的111
+## 目的
 
 学习一个句子，不仅要学习其中词语的含义，还要学习词语的顺序信息
 
 生成下一token时，结合当前词和前面的上下文信息
 
-
 <video width="80%" controls autoplay loop muted>
   <source src="/video/测试2.mp4" type="video/mp4">
 </video>
 
+<video width="80%" controls autoplay loop muted>
+  <source src="../video/测试2.mp4" type="video/mp4">
+</video>
 
 
+
+## 实现原理分析
+
+以x1-x4为例，
+![[../img/1.jpg]]
