@@ -49,8 +49,7 @@
               "title": "插入模板"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/RNN序列模型.md",
+                "file": "source/_posts/LSTM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,12 +216,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e1a67adb7f5230d7",
+  "active": "2c1cb65544d792fe",
   "lastOpenFiles": [
-    "source/img/隐藏状态公式.jpg",
     "插入模板.md",
-    "source/_posts/RNN序列模型.md",
     "source/_posts/LSTM.md",
+    "source/img/Ct计算公式.jpg",
+    "source/img/Ht的计算公式.jpg",
+    "source/img/输出结果.jpg",
+    "source/_posts/RNN序列模型.md",
+    "source/img/隐藏状态公式.jpg",
     "source/img/LSTM输出原理.jpg",
     "未命名.md",
     "source/video/多层双向.mp4",
