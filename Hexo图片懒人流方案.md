@@ -56,3 +56,9 @@ git push
 
 ---
 
+加视频
+源文件放到source/video
+
+<video width="80%" controls autoplay loop muted>
+  <source src="/video/test02.mp4" type="video/mp4">
+</video>

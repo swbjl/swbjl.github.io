@@ -17,9 +17,6 @@ categories: it学习
   <source src="/video/test02.mp4" type="video/mp4">
 </video>
 
-<video width="80%" controls autoplay loop muted>
-  <source src="/video/test02.mp4" type="video/mp4">
-</video>
 
 
 ## 实现原理分析
