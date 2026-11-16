@@ -48,18 +48,6 @@
               "icon": "lucide-file",
               "title": "插入模板"
             }
-          },
-          {
-            "id": "4391b291e26d96af",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "source/img/LSTM输出原理.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "LSTM输出原理"
-            }
           }
         ],
         "currentTab": 1
@@ -231,10 +219,11 @@
   },
   "active": "e1a67adb7f5230d7",
   "lastOpenFiles": [
-    "source/_posts/LSTM.md",
-    "source/_posts/RNN序列模型.md",
-    "source/img/LSTM输出原理.jpg",
+    "source/img/隐藏状态公式.jpg",
     "插入模板.md",
+    "source/_posts/RNN序列模型.md",
+    "source/_posts/LSTM.md",
+    "source/img/LSTM输出原理.jpg",
     "未命名.md",
     "source/video/多层双向.mp4",
     "source/video/20261116_141116.mp4",
