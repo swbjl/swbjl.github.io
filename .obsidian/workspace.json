@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94c001ad65d34ef7",
+            "id": "2c1cb65544d792fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/LSTM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LSTM"
+            }
+          },
+          {
+            "id": "e1a67adb7f5230d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +34,35 @@
               "icon": "lucide-file",
               "title": "RNN序列模型"
             }
+          },
+          {
+            "id": "90efabb597333fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "插入模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "插入模板"
+            }
+          },
+          {
+            "id": "4391b291e26d96af",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "source/img/LSTM输出原理.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "LSTM输出原理"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +229,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "94c001ad65d34ef7",
+  "active": "e1a67adb7f5230d7",
   "lastOpenFiles": [
-    "插入模板.md",
+    "source/_posts/LSTM.md",
     "source/_posts/RNN序列模型.md",
+    "source/img/LSTM输出原理.jpg",
+    "插入模板.md",
+    "未命名.md",
     "source/video/多层双向.mp4",
     "source/video/20261116_141116.mp4",
     "source/img/多层双向.jpg",
