@@ -46,11 +46,15 @@ t1，t2，t3
 那么一层一层往前拨
 
 我们现在只需要考虑Ht了
+
+
 ![Ht的计算公式](/img/Ht的计算公式.jpg)
+
 Ht = t2* tanh(Ct)
 t2就是输出门最后得到的系数，
 那么 我们现在就只需要考虑Ct了
-![Ct计算公式](/img/Ct计算公式.jpg)
-而Ct = t1 * Ct-1 + t3 * Ht(一撇  好吧 这个我不会打)
 
-Ht = tanh（）
+![Ct计算公式](/img/Ct计算公式.jpg)
+
+而Ct = t1 * Ct-1 + t3 * Ht(一撇  好吧 这个我不会打)
+Ht = tanh（Ht-1 *  W + Xt-1 * W ）
