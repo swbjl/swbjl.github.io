@@ -218,13 +218,16 @@
   },
   "active": "2c1cb65544d792fe",
   "lastOpenFiles": [
-    "插入模板.md",
+    "source/img/多层LSTM.jpg",
     "source/_posts/LSTM.md",
+    "source/_posts/RNN序列模型.md",
+    "插入模板.md",
+    "source/img/多层+双向LSTM.jpg",
+    "source/img/双向LSTM.jpg",
     "source/img/LSTM大观总览.jpg",
     "source/img/Ct计算公式.jpg",
     "source/img/Ht的计算公式.jpg",
     "source/img/输出结果.jpg",
-    "source/_posts/RNN序列模型.md",
     "source/img/隐藏状态公式.jpg",
     "source/img/LSTM输出原理.jpg",
     "未命名.md",
@@ -237,15 +240,12 @@
     "Hexo图片懒人流方案.md",
     "source/插入模板.md",
     "source/video/多层实现.mp4",
-    "source/img/从隐藏状态到最终输出.png",
     "source/video/单层实现.mp4",
     "source/video/RNN最小单元基本原理.mp4",
     "source/_posts/我的新文章.md",
     "source/_posts/整个项目带做提示词.md",
     "source/_posts/基础类功能.md",
     "笔记添加图片视频.md",
-    "博客懒人流.md",
-    "source/img/1.jpg",
-    "Pasted image 20261116115721.png"
+    "博客懒人流.md"
   ]
 }
