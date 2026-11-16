@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/我的新文章.md",
+                "file": "source/_posts/RNN序列模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我的新文章"
+              "title": "RNN序列模型"
             }
           }
         ]
@@ -190,14 +190,15 @@
   },
   "active": "41da38daf733a21c",
   "lastOpenFiles": [
+    "source/_posts/整个项目带做提示词.md",
+    "source/_posts/基础类功能.md",
+    "source/_posts/我的新文章.md",
+    "source/_posts/RNN序列模型.md",
     "Hexo图片懒人流方案.md",
     "笔记添加图片视频.md",
-    "source/_posts/我的新文章.md",
     "博客懒人流.md",
     "source/img/1.jpg",
     "Pasted image 20261116115721.png",
-    "source/_posts/整个项目带做提示词.md",
-    "source/_posts/RNN序列模型.md",
     "source/_posts/我的新文章/1.jpg"
   ]
 }

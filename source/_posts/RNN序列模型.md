@@ -21,7 +21,7 @@ categories: it学习
   <source src="../video/测试2.mp4" type="video/mp4">
 </video>
 
-
+![隐藏状态公式](/video/测试2.mp4)
 
 ## 实现原理分析
 
