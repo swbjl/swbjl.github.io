@@ -25,9 +25,9 @@ aliases:
 ![相关性计算2](/img/Attention/相关性计算2.jpg)
 
 3.将每个时间步的隐藏信息加权求和，作为一个词元的上下文向量
-
+![加权](/img/Attention/加权.jpg)
 4.上下文向量和当前隐藏状态拼接，经过linear+softmax，生成目标词的概率
-
+![求词](/img/Attention/求词.jpg)
 
 疑问：
 1.这样搞，上下文序列一长，不就爆炸了么
