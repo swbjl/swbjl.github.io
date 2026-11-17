@@ -203,11 +203,12 @@
   },
   "active": "90efabb597333fe3",
   "lastOpenFiles": [
+    "2026-11-16.md",
+    "source/_posts/GRU.md",
     "source/img/GRU/输出原理.jpg",
     "source/img/GRU/更新门.jpg",
     "source/img/GRU/重置门.jpg",
     "插入模板.md",
-    "source/_posts/GRU.md",
     "source/img/GRU/当前时间步隐藏状态.jpg",
     "source/img/GRU/Ht公式.jpg",
     "source/img/GRU/LSTM输出原理.jpg",
