@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "GRU"
             }
+          },
+          {
+            "id": "59e19b76537215b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "插入模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "插入模板"
+            }
           }
         ]
       }
@@ -174,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +203,16 @@
   },
   "active": "90efabb597333fe3",
   "lastOpenFiles": [
-    "source/_posts/LSTM.md",
-    "source/_posts/GRU.md",
+    "source/img/GRU/输出原理.jpg",
+    "source/img/GRU/更新门.jpg",
+    "source/img/GRU/重置门.jpg",
     "插入模板.md",
+    "source/_posts/GRU.md",
+    "source/img/GRU/当前时间步隐藏状态.jpg",
+    "source/img/GRU/Ht公式.jpg",
+    "source/img/GRU/LSTM输出原理.jpg",
+    "source/img/GRU/Ht的计算公式.jpg",
+    "source/_posts/LSTM.md",
     "source/_posts/RNN序列模型 - 副本.md",
     "source/img/GRU",
     "source/video/GRU",
@@ -210,13 +230,6 @@
     "source/img/LSTM/多层+双向LSTM.jpg",
     "source/img/LSTM/双向LSTM.jpg",
     "source/img/LSTM/多层LSTM.jpg",
-    "source/img/LSTM/LSTM大观总览.jpg",
-    "source/img/RNN/多层双向.jpg",
-    "source/img/RNN/从隐藏状态到最终输出.png",
-    "source/img/LSTM/Ct计算公式.jpg",
-    "source/img/LSTM/Ht的计算公式.jpg",
-    "source/img/RNN/隐藏状态公式.jpg",
-    "source/img/LSTM/LSTM输出原理.jpg",
     "Hexo图片懒人流方案.md",
     "source/插入模板.md",
     "source/_posts/我的新文章.md",
