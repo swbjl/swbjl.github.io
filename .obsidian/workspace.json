@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +203,7 @@
   },
   "active": "90efabb597333fe3",
   "lastOpenFiles": [
+    "source/img/GRU/完整架构.jpg",
     "2026-11-16.md",
     "source/_posts/GRU.md",
     "source/img/GRU/输出原理.jpg",
