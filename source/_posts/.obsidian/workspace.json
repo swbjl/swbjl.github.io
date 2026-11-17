@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "65eafe95a7964680",
+        "id": "a841ba5aedaffd19",
         "type": "tabs",
         "children": [
           {
-            "id": "835c938589f0b5b9",
+            "id": "a118aa9acf9b3300",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LSTM.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LSTM"
+              "title": "新标签页"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LSTM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LSTM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LSTM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,6 +182,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "835c938589f0b5b9",
-  "lastOpenFiles": []
+  "active": "a118aa9acf9b3300",
+  "lastOpenFiles": [
+    "LSTM.md",
+    "Attention前奏.md",
+    "GRU - 副本.md"
+  ]
 }
