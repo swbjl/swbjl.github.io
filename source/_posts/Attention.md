@@ -1,6 +1,6 @@
 ---
 title: Attention
-date: 2026-11-17
+date: 2026-11-05
 tags:
   - 博客
   - 随笔

@@ -1,6 +1,6 @@
 ---
 title: Attention前奏
-date: 2026-11-17
+date: 2026-11-04
 tags:
   - 博客
   - 随笔

@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eaf39f597bdf51e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/Attention.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attention"
-            }
-          },
-          {
             "id": "59e19b76537215b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/LSTM.md",
+                "file": "source/_posts/Transformer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSTM"
+              "title": "Transformer"
             }
           }
         ]
@@ -174,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Attention.md",
+                "file": "file:D:/ai/cuda/初始设置/整个项目带做提示词.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,16 +188,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "eaf39f597bdf51e5",
+  "active": "59e19b76537215b1",
   "lastOpenFiles": [
+    "source/_posts/RNN序列模型.md",
+    "source/_posts/Attention.md",
+    "source/_posts/Transformer.md",
+    "source/_posts/Attention前奏.md",
+    "source/_posts/GRU.md",
+    "source/_posts/LSTM.md",
+    "file:D:/ai/cuda/初始设置/整个项目带做提示词.md",
+    "README.md",
     "source/img/Attention/求词.jpg",
     "source/img/Attention/加权.jpg",
-    "source/_posts/Transformer.md",
-    "source/_posts/RNN序列模型.md",
-    "source/_posts/LSTM.md",
-    "source/_posts/GRU.md",
-    "source/_posts/Attention前奏.md",
-    "source/_posts/Attention.md",
     "2026-11-17.md",
     "source/img/Attention/相关性计算2.jpg",
     "source/img/Attention/相关性计算.jpg",
@@ -224,7 +213,6 @@
     "source/img/Attention前奏",
     "source/img/GRU/多层+双向.jpg",
     "source/img/GRU/双向.jpg",
-    "source/img/GRU/多层.jpg",
     "2026-11-16.md",
     "source/_posts/RNN序列模型 - 副本.md",
     "source/img/GRU",
